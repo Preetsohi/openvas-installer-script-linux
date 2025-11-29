@@ -67,7 +67,7 @@ If using the GitHub website:
 Click Download raw file for openvas.sh.
 
 If using CLI:
-wget https://raw.githubusercontent.com/<your-username>/openvas-installer/main/openvas.sh
+wget https://github.com/Preetsohi/openvas-installer-script-linux/main/openvas.sh
 chmod +x openvas.sh
 
 2️⃣ Run Installation
